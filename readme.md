@@ -1,2 +1,2 @@
 #MyTestProject
-Test project for learning features and commands of git.
+THe test project for learning features and commands of git.
